@@ -1,7 +1,14 @@
-# ✨ Tailwind CSS Project Showcase
+# 🌐 Elegant Website – Tailwind CSS Upgrade
 
-A simple yet elegant **frontend design project** built with **HTML5** and **Tailwind CSS**.  
-This project highlights my ability to design **modern, responsive, and clean UI layouts** using a utility-first CSS framework.
+This is a simple yet elegant website originally built with **HTML5** and **Tailwind CSS v3**, now upgraded to the latest **Tailwind CSS v4.1.12**.  
+
+The project showcases my ability to:  
+- ✅ Upgrade and refactor code for newer frameworks  
+- ✅ Maintain responsive and clean UI design during migrations  
+- ✅ Leverage Tailwind’s new features for efficiency and modern styling  
+
+This upgrade reflects my commitment to staying up-to-date with evolving frontend technologies while ensuring design consistency and scalability.  
+
 
 ## 🚀 Features
 - ✅ Fully responsive design  
