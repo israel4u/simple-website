@@ -1,0 +1,17 @@
+{
+  "name": "beginner-tailwind-site",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^4.1.12",
+    "vite": "^7.1.3"
+  }
+}
