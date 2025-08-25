@@ -25,6 +25,4 @@ This upgrade reflects my commitment to staying up-to-date with evolving frontend
 ![Project Screenshot](/public/images/Beginner-Tailwind.jpg)  
 
 ## 🔗 Live Demo
-👉 [View Live Project](your-live-demo-link)  
-*(Deploy easily on Netlify, Vercel, or GitHub Pages and paste the link here)*  
-
+👉 [View Live Project](https://beginnertailwindcss.netlify.app/)
